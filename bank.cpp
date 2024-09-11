@@ -165,6 +165,7 @@ void Bank::AtmManagement() {
 }
 
 int main () {
+    // make sample object
     Bank B1;
     B1.Menu();
 
